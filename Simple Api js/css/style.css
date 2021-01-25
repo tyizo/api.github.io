@@ -1,0 +1,16 @@
+* {
+    text-align: center !important; 
+    padding: 10px;
+}
+#content {
+    box-shadow: 0 0 36px #f0fff0; /* Shadow */
+    color: #ffffff;
+    transition: all 0.3s ease-out;
+}
+#content:hover{
+    transition: all 0.4s ease-in;
+   /*background-color: #050505;*/
+    box-shadow: 0 0 36px red;
+}
+#header > h1 {color: #ffffff;}
+body {background-color: #141414;}
